@@ -1,12 +1,29 @@
 from flask import Flask
-from views import home_view
+import requests
 
-def create_app(config_file):
-	app = Flask(__name__)  # Create application object
-	app.config.from_pyfile(config_file)  # Configure application with settings file, not strictly necessary
-	app.register_blueprint(home_view)  # Register url's so application knows what to do
-	return app
+app = Flask(__name__)
+
+
+@app.route('/search/<args>', methods=["GET"])
+def search(args):
+    query_url = 'http://127.0.0.1:5050/query_by_subject/' + str(args)
+    query_result = requests.get(url=query_url)
+    return query_result.json()
+
+
+@app.route('/lookup/<args>', methods=["GET"])
+def lookup(args):
+    query_url = 'http://127.0.0.1:5050/query_by_item/' + str(args)
+    query_result = requests.get(url=query_url)
+    return query_result.json()
+
+
+@app.route('/buy/<args>', methods=["GET"])
+def buy(args):
+    query_url = 'http://127.0.0.1:5051/buy/' + str(args)
+    query_result = requests.get(url=query_url)
+    return query_result.json()
+
 
 if __name__ == '__main__':
-	app = create_app('settingslocal.py')  # Create application with our config file
-	app.run()  # Run our application
+    app.run(port=5052, debug=True)
