@@ -27,11 +27,11 @@ class OrderSchema(Schema):
 
 @app.route('/buy/<int:args>')
 def buy(args):
-    query_url = 'http://127.0.0.1:5050/query_by_item/'+str(args)
+    query_url = 'http://elnux1.cs.umass.edu:34602/query_by_item/'+str(args)
     query_result = requests.get(url=query_url)
     query_data = query_result.json()
     if query_data is not None and query_data['result']['quantity'] > 0:
-        update_url = 'http://127.0.0.1:5050/update/'+str(args)
+        update_url = 'http://elnux1.cs.umass.edu:34602/update/'+str(args)
         update_result = requests.get(url=update_url)
         update_data = update_result.json()
         if update_data['result'] == 0:
@@ -50,4 +50,4 @@ def buy(args):
 
 
 if __name__ == '__main__':
-    app.run(port=5051, debug=True)
+    app.run(host='0.0.0.0', port=34601, debug=True)
