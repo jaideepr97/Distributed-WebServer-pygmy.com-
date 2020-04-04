@@ -44,9 +44,9 @@ def buy(args):
             result = order_schema.dump(order_details)
             return {'Buy Successful': result}
         else:
-            return 'Buy Failed!'
+            return {'Buy Failed!': -1}
     else:
-        return 'Buy Failed!'
+        return {'Buy Failed!': -1}
 
 
 if __name__ == '__main__':
