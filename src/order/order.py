@@ -32,11 +32,12 @@ class PurchaseRequestSchema(Schema):
 @app.route('/buy/<int:args>')
 def buy(args):
     print("reaching here")
-    query_url = 'http://0.0.0.0:34602/query_by_item/'+str(args)
+    #query_url = 'http://0.0.0.0:34602/query_by_item/'+str(args)
+    query_url = 'http://elnux1.cs.umass.edu:34602/query_by_item/' + str(args)
     query_result = requests.get(url=query_url)
     query_data = query_result.json()
     if query_data is not None and query_data['result']['quantity'] > 0:
-        update_url = 'http://0.0.0.0:34602/update/'+str(args)
+        update_url = 'http://elnux1.cs.umass.edu:34602/update/'+str(args)
         update_result = requests.get(url=update_url)
         update_data = update_result.json()
         if update_data['result'] == 0:
