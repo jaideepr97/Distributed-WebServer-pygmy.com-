@@ -41,7 +41,7 @@ def buy(args):
         update_result = requests.get(url=update_url)
         update_data = update_result.json()
         if update_data['result'] == 0:
-            _id = ''.join(random.choices(string.ascii_letters + string.digits, k=16))
+            _id = ''.join(random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits) for _ in range(16))
             purchase_request = PurchaseRequest(id=_id, book_name=query_data['result']['name'], item_number=args,
                                                total_price=query_data['result']['cost'],
                                                remaining_stock=update_data['remaining_stock'])
