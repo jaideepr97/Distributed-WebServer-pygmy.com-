@@ -34,7 +34,7 @@ def query_by_subject(args):
 @app.route('/query_by_item/<int:args>', methods=["GET"])
 def query_by_item(args):
     catalog_schema = CatalogSchema()
-    catalog = Catalog.query.with_entities(Catalog.quantity, Catalog.cost).filter_by(id=args).first()
+    catalog = Catalog.query.with_entities(Catalog.name, Catalog.quantity, Catalog.cost).filter_by(id=args).first()
     result = catalog_schema.dump(catalog)
     return {'result': result}
 
@@ -46,7 +46,7 @@ def update(args):
     if catalog is not None and catalog.quantity > 0:
         catalog.quantity -= 1
         db.session.commit()
-        return {'result': 0}
+        return {'result': 0, 'remaining_stock': catalog.quantity}
     else:
         return {'result': -1}
 
