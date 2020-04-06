@@ -11,7 +11,7 @@ from marshmallow import Schema, fields
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///orders.db'
 db = SQLAlchemy(app)
-edLab_url = 'http://elnux3.cs.umass.edu:34602'
+edLab_url = 'http://elnux1.cs.umass.edu:34602'
 local_url = 'http://0.0.0.0:34602'
 log_lock = threading.Lock()
 

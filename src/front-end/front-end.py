@@ -6,8 +6,8 @@ from IPython import embed
 import threading
 
 app = Flask(__name__)
-edLab_url = 'http://elnux3.cs.umass.edu:34602'
-edLab_order_url = 'http://elnux3.cs.umass.edu:34601'
+edLab_url = 'http://elnux1.cs.umass.edu:34602'
+edLab_order_url = 'http://elnux2.cs.umass.edu:34601'
 local_url = 'http://0.0.0.0:34602'
 local_order_url = 'http://0.0.0.0:34601'
 log_lock = threading.Lock()
