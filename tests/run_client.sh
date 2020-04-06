@@ -1,5 +1,7 @@
-curl http://elnux3.cs.umass.edu:34600/lookup/4 >> client1.txt
-curl http://elnux3.cs.umass.edu:34600/buy/4 >> client1.txt
-curl http://elnux3.cs.umass.edu:34600/buy/4 >> client1.txt
-curl http://elnux3.cs.umass.edu:34600/buy/3 >> client1.txt
-curl http://elnux3.cs.umass.edu:34600/buy/2 >> client1.txt
+cd test_1; python3 test1.py; cd ..;
+cd test_2; python3 test2.py; cd ..;
+cd test_3; python3 test3.py; cd ..;
+cd test_4; python3 test4.py; cd ..;
+cd test_5; python3 test5.py; cd ..;
+
+

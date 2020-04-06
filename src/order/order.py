@@ -1,14 +1,19 @@
 from flask import Flask
+from flask import request
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
 import requests
 import random
 import string
+import threading
 from marshmallow import Schema, fields
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///orders.db'
 db = SQLAlchemy(app)
+edLab_url = 'http://elnux3.cs.umass.edu:34602'
+local_url = 'http://0.0.0.0:34602'
+log_lock = threading.Lock()
 
 
 class PurchaseRequest(db.Model):
@@ -31,15 +36,21 @@ class PurchaseRequestSchema(Schema):
 
 @app.route('/buy/<int:args>')
 def buy(args):
-    print("reaching here")
-    query_url = 'http://0.0.0.0:34602/query_by_item/'+str(args)
-    #query_url = 'http://elnux1.cs.umass.edu:34602/query_by_item/' + str(args)
-    query_result = requests.get(url=query_url)
+
+    request_start = datetime.now()
+    request_id = request.values['request_id']
+
+    # query_url = local_url + '/query_by_item/' + str(args)
+    query_url = edLab_url + '/query_by_item/' + str(args)
+
+    query_result = requests.get(url=query_url, data={'request_id': request_id})
     query_data = query_result.json()
     if query_data is not None and query_data['result']['quantity'] > 0:
-        update_url = 'http://0.0.0.0:34602/update/' + str(args)
-        #update_url = 'http://elnux1.cs.umass.edu:34602/update/'+str(args)
-        update_result = requests.get(url=update_url)
+
+        # update_url = local_url + '/update/' + str(args)
+        update_url = edLab_url + '/update/' + str(args)
+
+        update_result = requests.get(url=update_url, data={'request_id': request_id})
         update_data = update_result.json()
         if update_data['result'] == 0:
             _id = ''.join(random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits) for _ in range(16))
@@ -51,6 +62,16 @@ def buy(args):
             order_details = PurchaseRequest.query.filter_by(id=_id).first()
             order_schema = PurchaseRequestSchema()
             result = order_schema.dump(order_details)
+
+            request_end = datetime.now()
+            request_time = request_end - request_start
+
+            log_lock.acquire()
+            file = open("order_server.txt", "a+")
+            file.write("{} \t\t\t {}\n".format(request_id, (request_time.microseconds / 1000)))
+            file.close()
+            log_lock.release()
+
             return {'Buy Successful': result}
         else:
             return {'Buy Failed!': {'book_name': query_data['result']['name'], 'item_number': args, 'remaining_stock': 0}}
