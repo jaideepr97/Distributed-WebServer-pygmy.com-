@@ -13,13 +13,17 @@ if __name__ == '__main__':
 
     total_request_time = 0
     request_counter = 0
-
+    file = open("client_1_output.txt", "w")
+    file.close()
+    file = open("client_1_metrics.txt", "w")
+    file.close()
     for i in range(0, 3):
         request_id = uuid.uuid1()
         request_start = datetime.datetime.now()
 
         operation = random.choice(operations)
         if operation == 'search':
+            print('Search')
             topic = random.choice(topics)
             query_url = edLab_url + str(operation) + '/' + str(topic)
             #query_url = local_url + '/' + str(operation) + '/' + str(topic)
@@ -36,6 +40,7 @@ if __name__ == '__main__':
             file.close()
 
         elif operation == 'lookup' or 'buy':
+            print('Lookup or Buy')
             item = random.choice(items)
             query_url = edLab_url + str(operation) + '/' + str(item)
             #query_url = local_url + '/' + str(operation) + '/' + str(item)
@@ -57,3 +62,4 @@ if __name__ == '__main__':
     file.close()
 
     print("done running test 1")
+
