@@ -18,7 +18,7 @@ def client(idx):
     file.close()
     file = open("client_"+str(idx)+"_metrics.txt", "w")
     file.close()
-    for i in range(0, 50):
+    for _ in range(0, 1000):
         request_id = uuid.uuid1()
         request_start = datetime.datetime.now()
 
