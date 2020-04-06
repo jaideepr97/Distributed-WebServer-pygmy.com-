@@ -23,7 +23,6 @@ if __name__ == '__main__':
 
         operation = random.choice(operations)
         if operation == 'search':
-            print('Search')
             topic = random.choice(topics)
             query_url = edLab_url + str(operation) + '/' + str(topic)
             #query_url = local_url + '/' + str(operation) + '/' + str(topic)
@@ -40,7 +39,6 @@ if __name__ == '__main__':
             file.close()
 
         elif operation == 'lookup' or 'buy':
-            print('Lookup or Buy')
             item = random.choice(items)
             query_url = edLab_url + str(operation) + '/' + str(item)
             #query_url = local_url + '/' + str(operation) + '/' + str(item)
