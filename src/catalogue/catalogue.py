@@ -1,10 +1,12 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from marshmallow import Schema, fields
+import threading
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///catalog.db'
 db = SQLAlchemy(app)
+buy_lock = threading.Lock()
 
 
 class Catalog(db.Model):
@@ -41,13 +43,16 @@ def query_by_item(args):
 
 @app.route('/update/<int:args>', methods=["GET"])
 def update(args):
-    catalog_schema = CatalogSchema()
-    catalog = Catalog.query.filter_by(id=args).first()
+    buy_lock.acquire()
+    catalog = db.session.query(Catalog).filter_by(id=args).with_for_update().first()
     if catalog is not None and catalog.quantity > 0:
         catalog.quantity -= 1
         db.session.commit()
+        buy_lock.release()
         return {'result': 0, 'remaining_stock': catalog.quantity}
     else:
+        db.session.commit()
+        buy_lock.release()
         return {'result': -1}
 
 
