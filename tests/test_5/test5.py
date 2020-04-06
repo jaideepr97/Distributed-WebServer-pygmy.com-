@@ -22,8 +22,8 @@ def client_1():
         operation = random.choice(operations)
         if operation == 'search':
             topic = random.choice(topics)
-            # query_url = edLab_url + '/' + str(operation) + '/' + str(topic)
-            query_url = local_url + '/' + str(operation) + '/' + str(topic)
+            query_url = edLab_url + '/' + str(operation) + '/' + str(topic)
+            #query_url = local_url + '/' + str(operation) + '/' + str(topic)
             request_result = requests.get(url=query_url, data={'request_id': request_id})
             file = open("client_1_output.txt", "a+")
             file.write(request_result.text)
@@ -38,8 +38,8 @@ def client_1():
 
         elif operation == 'lookup' or 'buy':
             item = random.choice(items)
-            # query_url = edLab_url + '/' + str(operation) + '/' + str(item)
-            query_url = local_url + '/' + str(operation) + '/' + str(item)
+            query_url = edLab_url + '/' + str(operation) + '/' + str(item)
+            #query_url = local_url + '/' + str(operation) + '/' + str(item)
             request_result = requests.get(url=query_url, data={'request_id': request_id})
             file = open("client_1_output.txt", "a+")
             file.write(request_result.text)
@@ -76,8 +76,8 @@ def client_2():
         if operation == 'search':
             topic = random.choice(topics)
 
-            # query_url = edLab_url + '/' + str(operation) + '/' + str(topic)
-            query_url = local_url + '/' + str(operation) + '/' + str(topic)
+            query_url = edLab_url + '/' + str(operation) + '/' + str(topic)
+            #query_url = local_url + '/' + str(operation) + '/' + str(topic)
 
             request_result = requests.get(url=query_url, data={'request_id': request_id})
             file = open("client_2_output.txt", "a+")
@@ -94,8 +94,8 @@ def client_2():
         elif operation == 'lookup' or 'buy':
             item = random.choice(items)
 
-            # query_url = edLab_url + '/' + str(operation) + '/' + str(item)
-            query_url = local_url + '/' + str(operation) + '/' + str(item)
+            query_url = edLab_url + '/' + str(operation) + '/' + str(item)
+            #query_url = local_url + '/' + str(operation) + '/' + str(item)
 
             request_result = requests.get(url=query_url, data={'request_id': request_id})
             file = open("client_2_output.txt", "a+")

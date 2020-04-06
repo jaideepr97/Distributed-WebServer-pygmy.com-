@@ -5,7 +5,7 @@ import threading
 import random
 
 
-def client_1():
+def client_1(idx):
     operations = ['search', 'lookup', 'buy']
     topics = ['distributed%20systems', 'graduate%20school']
     items = [1, 2, 3, 4]
@@ -22,42 +22,42 @@ def client_1():
         operation = random.choice(operations)
         if operation == 'search':
             topic = random.choice(topics)
-            # query_url = edLab_url + '/' + str(operation) + '/' + str(topic)
-            query_url = local_url + '/' + str(operation) + '/' + str(topic)
+            query_url = edLab_url + '/' + str(operation) + '/' + str(topic)
+            #query_url = local_url + '/' + str(operation) + '/' + str(topic)
             request_result = requests.get(url=query_url, data={'request_id': request_id})
-            file = open("client_1_output.txt", "a+")
+            file = open('client_'+str(idx)+'_output.txt', "a+")
             file.write(request_result.text)
             file.close()
             request_end = datetime.datetime.now()
             request_time = request_end - request_start
             total_request_time = total_request_time + (request_time.microseconds / 1000)
             request_counter = request_counter + 1
-            file = open("client_1_metrics.txt", "a+")
+            file = open("client_"+str(idx)+"_metrics.txt", "a+")
             file.write("{} \t\t\t {}\n".format(request_id, (request_time.microseconds / 1000)))
             file.close()
 
         elif operation == 'lookup' or 'buy':
             item = random.choice(items)
-            # query_url = edLab_url + '/' + str(operation) + '/' + str(item)
-            query_url = local_url + '/' + str(operation) + '/' + str(item)
+            query_url = edLab_url + '/' + str(operation) + '/' + str(item)
+            #query_url = local_url + '/' + str(operation) + '/' + str(item)
             request_result = requests.get(url=query_url, data={'request_id': request_id})
-            file = open("client_1_output.txt", "a+")
+            file = open("client_"+str(idx)+"_output.txt", "a+")
             file.write(request_result.text)
             file.close()
             request_end = datetime.datetime.now()
             request_time = request_end - request_start
             total_request_time = total_request_time + (request_time.microseconds / 1000)
             request_counter = request_counter + 1
-            file = open("client_1_metrics.txt", "a+")
+            file = open("client_"+str(idx)+"_metrics.txt", "a+")
             file.write("{} \t\t\t {}\n".format(request_id, (request_time.microseconds / 1000)))
             file.close()
 
-    file = open("client_1_metrics.txt", "a+")
+    file = open("client_"+str(idx)+"_metrics.txt", "a+")
     file.write("Average request processing time: {}\n".format(total_request_time / request_counter))
     file.write("End to end request processing time: {}\n".format(total_request_time))
     file.close()
 
-
+'''
 def client_2():
     operations = ['search', 'lookup', 'buy']
     topics = ['distributed%20systems', 'graduate%20school']
@@ -268,15 +268,15 @@ def client_5():
     file.write("Average request processing time: {}\n".format(total_request_time / request_counter))
     file.write("End to end request processing time: {}\n".format(total_request_time))
     file.close()
-
+'''
 
 if __name__ == '__main__':
 
-    t1 = threading.Thread(target=client_1)
-    t2 = threading.Thread(target=client_2)
-    t3 = threading.Thread(target=client_3)
-    t4 = threading.Thread(target=client_4)
-    t5 = threading.Thread(target=client_5)
+    t1 = threading.Thread(target=client_1, args=(1,))
+    t2 = threading.Thread(target=client_1, args=(2,))
+    t3 = threading.Thread(target=client_1, args=(3,))
+    t4 = threading.Thread(target=client_1, args=(4,))
+    t5 = threading.Thread(target=client_1, args=(5,))
 
     # starting thread 1
     t1.start()
