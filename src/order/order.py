@@ -34,6 +34,13 @@ class PurchaseRequestSchema(Schema):
     date_created = fields.DateTime()
 
 
+def shutdown_server():
+    func = request.environ.get('werkzeug.server.shutdown')
+    if func is None:
+        raise RuntimeError('Not running with the Werkzeug Server')
+    func()
+
+
 @app.route('/buy/<int:args>')
 def buy(args):
 
@@ -77,6 +84,12 @@ def buy(args):
             return {'Buy Failed!': {'book_name': query_data['result']['name'], 'item_number': args, 'remaining_stock': 0}}
     else:
         return {'Buy Failed!': {'book_name': query_data['result']['name'], 'item_number': args, 'remaining_stock': 0}}
+
+
+@app.route('/shutdown', methods=['GET'])
+def shutdown():
+    shutdown_server()
+    return 'Server shutting down...'
 
 
 if __name__ == '__main__':

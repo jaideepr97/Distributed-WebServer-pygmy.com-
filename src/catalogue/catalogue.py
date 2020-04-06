@@ -28,6 +28,13 @@ class CatalogSchema(Schema):
     topic = fields.Str()
 
 
+def shutdown_server():
+    func = request.environ.get('werkzeug.server.shutdown')
+    if func is None:
+        raise RuntimeError('Not running with the Werkzeug Server')
+    func()
+
+
 @app.route('/query_by_subject/<args>', methods=["GET"])
 def query_by_subject(args):
 
@@ -109,6 +116,12 @@ def update(args):
         log_lock.release()
 
         return {'result': -1}
+
+
+@app.route('/shutdown', methods=['GET'])
+def shutdown():
+    shutdown_server()
+    return 'Server shutting down...'
 
 
 if __name__ == '__main__':

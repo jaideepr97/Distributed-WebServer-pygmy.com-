@@ -13,6 +13,13 @@ local_order_url = 'http://0.0.0.0:34601'
 log_lock = threading.Lock()
 
 
+def shutdown_server():
+    func = request.environ.get('werkzeug.server.shutdown')
+    if func is None:
+        raise RuntimeError('Not running with the Werkzeug Server')
+    func()
+
+
 @app.route('/search/<args>', methods=["GET"])
 def search(args):
 
@@ -80,6 +87,12 @@ def buy(args):
     log_lock.release()
 
     return query_result.json()
+
+
+@app.route('/shutdown', methods=['GET'])
+def shutdown():
+    shutdown_server()
+    return 'Server shutting down...'
 
 
 if __name__ == '__main__':
