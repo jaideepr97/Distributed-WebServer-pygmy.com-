@@ -20,9 +20,9 @@ cat ~/.ssh/id_rsa.pub | ssh username@elnux.cs.umass.edu "mkdir -p ~/.ssh && chmo
 6. Enter your password, if prompted.
 7. Now you should be able to login without using a password. Please test that you are able to do so before running the application.
 8. Clone the git repo on on your edlab machine as well as your local machine
-9. In the run_pygmy.sh script, make the following changes:
-10. In the user variable, assign your edlab username.
-11. In the remote_path give the remote directory where you cloned the repo. This can be done using the pwd command. Make sure to give a ‘/’ at the end of the path.
+9. In the run_pygmy.sh script, make the following changes:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. In the user variable, assign your edlab username.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. In the remote_path give the remote directory where you cloned the repo. This can be done using the pwd command. Make sure to give a ‘/’ at the end of the path.
 Example: /nfs/elsrv4/users1/grad/aayushgupta/cs677/
 12. Run the script run_pygmy.sh on your local machine using the following commands:
 	chmod +x run_pygmy.sh
