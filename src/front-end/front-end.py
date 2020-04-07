@@ -131,7 +131,7 @@ This function is used to shut down the server
 @app.route('/shutdown', methods=['GET'])
 def shutdown():
     shutdown_server()
-    return 'Server shutting down...'
+    return 'Front End Server shutting down...'
 
 
 '''
