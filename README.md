@@ -14,9 +14,9 @@ Press Enter here.
 4. Copy the public key to the remote machine. For this you will need the ssh-copy-id command. It is installed by default in most linux variants. It won’t be installed on a Mac. Use the following command to install it if you are on a Mac:
     brew install ssh-copy-id
 5. Copy the public key using the following command:
-ssh-copy-id <username>@elnux.cs.umass.edu
-Where <username> is your edlab username. Alternatively, you can also use the following command to paste the key:
-cat ~/.ssh/id_rsa.pub | ssh<username>@elnux.cs.umass.edu "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"
+ssh-copy-id username@elnux.cs.umass.edu
+Where username is your edlab username. Alternatively, you can also use the following command to paste the key:
+cat ~/.ssh/id_rsa.pub | ssh username@elnux.cs.umass.edu "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"
 6. Enter your password, if prompted.
 7. Now you should be able to login without using a password. Please test that you are able to do so before running the application.
 8. Clone the git repo on on your edlab machine as well as your local machine
