@@ -28,9 +28,9 @@ Example: /nfs/elsrv4/users1/grad/aayushgupta/cs677/
 	chmod +x run_pygmy.sh
 	./run_pygmy.sh
 
-This will spawn:
-The front end server on http://elnux3.cs.umass.edu:34600
-The order server on http://elnux2.cs.umass.edu:34601
-The catalog server on http://elnux1.cs.umass.edu:34602
-The client on your local machine.
+This will spawn:  
+The front end server on http://elnux3.cs.umass.edu:34600  
+The order server on http://elnux2.cs.umass.edu:34601  
+The catalog server on http://elnux1.cs.umass.edu:34602  
+The client on your local machine.  
 Once the tests are complete, you will be able to view the output and performance metric files for all the clients on your local machine, and the server logs will be stored under ‘front_end_server.txt’, ‘order_server.txt’ and ‘catalog_server.txt’ on your edLab machine in the src sub directory
