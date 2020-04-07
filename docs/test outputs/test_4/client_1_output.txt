@@ -1,0 +1,9694 @@
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1999
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1999
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1998
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1998
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "YZYRUnEvVeb4ops0", 
+    "item_number": 3, 
+    "remaining_stock": 1998, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1999
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "XV8Hc2U1mnbkHFRO", 
+    "item_number": 3, 
+    "remaining_stock": 1997, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "5n3ataJNJ42jvNSa", 
+    "item_number": 1, 
+    "remaining_stock": 1997, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1997
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ZHrvXrXUaV4W74iY", 
+    "item_number": 1, 
+    "remaining_stock": 1996, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1996
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "KemXC0cQ0fZ2FBWW", 
+    "item_number": 1, 
+    "remaining_stock": 1995, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1999
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1999
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1995
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1995
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "kycLxcvgm6nlbBh8", 
+    "item_number": 4, 
+    "remaining_stock": 1998, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "6H1LgKPuBGic5Efn", 
+    "item_number": 1, 
+    "remaining_stock": 1994, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1994
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1997
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "6Tb1vEmBf0t8L3DY", 
+    "item_number": 1, 
+    "remaining_stock": 1993, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "OZbIRZyE8Skj6Ncn", 
+    "item_number": 3, 
+    "remaining_stock": 1996, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1996
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1993
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1998
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1999
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1996
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "GyPoFhhxogkAMLtj", 
+    "item_number": 1, 
+    "remaining_stock": 1992, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "aLaIR1rKsn3lDKYp", 
+    "item_number": 3, 
+    "remaining_stock": 1995, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1998
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1995
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "IYhnv1KNsEAMFSzE", 
+    "item_number": 4, 
+    "remaining_stock": 1997, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "3b68j7AOEtj4eMlG", 
+    "item_number": 1, 
+    "remaining_stock": 1991, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "uSOQ0co5Cs9xSEDK", 
+    "item_number": 4, 
+    "remaining_stock": 1996, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "SrQDXkZKWVe3abIs", 
+    "item_number": 2, 
+    "remaining_stock": 1998, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "msuo0B0Fm2jB1ffI", 
+    "item_number": 1, 
+    "remaining_stock": 1990, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1990
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "YnsZW9faF6K5gJSW", 
+    "item_number": 3, 
+    "remaining_stock": 1994, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1994
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "gReQHQ0jIzKcAN1v", 
+    "item_number": 1, 
+    "remaining_stock": 1989, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "nqx5mIkstGz4jeuO", 
+    "item_number": 3, 
+    "remaining_stock": 1993, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Z2sp0iWJFnr0vTCb", 
+    "item_number": 4, 
+    "remaining_stock": 1995, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1995
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "lthLRlMrUYUiMsWh", 
+    "item_number": 1, 
+    "remaining_stock": 1988, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "EdKSMjsH9xmJP9xR", 
+    "item_number": 4, 
+    "remaining_stock": 1994, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "qGKqjFjosEcSZitL", 
+    "item_number": 2, 
+    "remaining_stock": 1997, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1994
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1988
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "2hJxAuorUHhuCrda", 
+    "item_number": 2, 
+    "remaining_stock": 1996, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1994
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1988
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1993
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1994
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1993
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1993
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "EIdRCGedG9kgaqEk", 
+    "item_number": 4, 
+    "remaining_stock": 1993, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "6GDqhV0f6dXW4b8u", 
+    "item_number": 3, 
+    "remaining_stock": 1992, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1993
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1993
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1992
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "WudcVgOxSgu1RXqv", 
+    "item_number": 4, 
+    "remaining_stock": 1992, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1988
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Z4Hujw4sNDpRloQw", 
+    "item_number": 3, 
+    "remaining_stock": 1991, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "GuhCkONo1Q6VXf5k", 
+    "item_number": 3, 
+    "remaining_stock": 1990, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1990
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "65hWmsLoICh9UJ5Z", 
+    "item_number": 2, 
+    "remaining_stock": 1995, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "HF5rdK3axM91A2sW", 
+    "item_number": 1, 
+    "remaining_stock": 1987, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "JWl0U8pxznykGMYL", 
+    "item_number": 3, 
+    "remaining_stock": 1989, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1989
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "GPjrU7dQ2lops0Cz", 
+    "item_number": 1, 
+    "remaining_stock": 1986, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1989
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1995
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1989
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "CNHqcWJuNoRGARkT", 
+    "item_number": 2, 
+    "remaining_stock": 1994, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1989
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "UPiIS2MQjHIOprzG", 
+    "item_number": 1, 
+    "remaining_stock": 1985, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "cIa3Sfre12hXjJBZ", 
+    "item_number": 4, 
+    "remaining_stock": 1991, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "dih1DCPVMJzK1vHO", 
+    "item_number": 3, 
+    "remaining_stock": 1988, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ukzc4GeKmgzg3u0z", 
+    "item_number": 2, 
+    "remaining_stock": 1993, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1993
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1988
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1993
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1985
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1985
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1985
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1991
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1991
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "hdD5umnPPoCcweOr", 
+    "item_number": 4, 
+    "remaining_stock": 1990, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1993
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "TwvqryCe26I5DKnG", 
+    "item_number": 1, 
+    "remaining_stock": 1984, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "8JXT3niRAgu3XIQs", 
+    "item_number": 1, 
+    "remaining_stock": 1983, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1990
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "D4oVftdbSjeT3b8S", 
+    "item_number": 2, 
+    "remaining_stock": 1992, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1990
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1983
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "hXnGjhX2pLlwxVhK", 
+    "item_number": 3, 
+    "remaining_stock": 1987, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "dgnsbKCU0KsTdlIh", 
+    "item_number": 1, 
+    "remaining_stock": 1982, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1992
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1990
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ay2RmvcynHCsurKC", 
+    "item_number": 4, 
+    "remaining_stock": 1989, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1989
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "SDhw4Y8eSTTC3Psz", 
+    "item_number": 2, 
+    "remaining_stock": 1991, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ZDdl8tmazrT5cl3E", 
+    "item_number": 4, 
+    "remaining_stock": 1988, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1987
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "jld5LhnaRI1zMIlC", 
+    "item_number": 3, 
+    "remaining_stock": 1986, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1991
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "7vJq6o6WlPFSsxY2", 
+    "item_number": 1, 
+    "remaining_stock": 1981, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1986
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1986
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1991
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "CkGLQa6ZaZU32dFc", 
+    "item_number": 2, 
+    "remaining_stock": 1990, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1990
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1990
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "fsHepEPEkqsgtgCH", 
+    "item_number": 4, 
+    "remaining_stock": 1987, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1987
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ugIkiMmNqfEr75aT", 
+    "item_number": 1, 
+    "remaining_stock": 1980, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1986
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "9vywPpMvF7wQbmXX", 
+    "item_number": 2, 
+    "remaining_stock": 1989, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Kf4a496lg8k2Bzal", 
+    "item_number": 2, 
+    "remaining_stock": 1988, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1987
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "a6djMkoJuenqdIfY", 
+    "item_number": 3, 
+    "remaining_stock": 1985, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1980
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "0rThZSRvRJMU1rUO", 
+    "item_number": 3, 
+    "remaining_stock": 1984, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "9sQ9kzawEQ3GSLej", 
+    "item_number": 1, 
+    "remaining_stock": 1979, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1979
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Qids0Vpq99UPmMtK", 
+    "item_number": 1, 
+    "remaining_stock": 1978, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1987
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "yXyfQTf1NwQyIAt6", 
+    "item_number": 3, 
+    "remaining_stock": 1983, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1987
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1983
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1988
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "XY7RcY3IC7plwf26", 
+    "item_number": 2, 
+    "remaining_stock": 1987, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Nir5WpAJDLTYYpyo", 
+    "item_number": 1, 
+    "remaining_stock": 1977, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "H6jPcpXmbHUIAiMt", 
+    "item_number": 4, 
+    "remaining_stock": 1986, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1986
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "mfufOChF7SSiU0lo", 
+    "item_number": 3, 
+    "remaining_stock": 1982, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "9hqaWGwc2QzahnUY", 
+    "item_number": 2, 
+    "remaining_stock": 1986, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1977
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1977
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "hTEMgA2XG0iWRGGF", 
+    "item_number": 4, 
+    "remaining_stock": 1985, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "TGkRkpRLiNVRIwoN", 
+    "item_number": 1, 
+    "remaining_stock": 1976, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1976
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "LsDhzM8Eafr1eTFw", 
+    "item_number": 1, 
+    "remaining_stock": 1975, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "gV0xHYo5UnhSR96L", 
+    "item_number": 2, 
+    "remaining_stock": 1985, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1982
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "HKAHky5p3zLPceiW", 
+    "item_number": 2, 
+    "remaining_stock": 1984, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1984
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1985
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Kz1PE9neC1BSULpk", 
+    "item_number": 4, 
+    "remaining_stock": 1984, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "FDlKJxrq5WCkKoen", 
+    "item_number": 4, 
+    "remaining_stock": 1983, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1983
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "HqcXY6x7z709yHFe", 
+    "item_number": 2, 
+    "remaining_stock": 1983, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "oFRfPLDIHFAp8wvt", 
+    "item_number": 4, 
+    "remaining_stock": 1982, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "hfEwTDn9wJm9lbg6", 
+    "item_number": 2, 
+    "remaining_stock": 1982, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1982
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1982
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1982
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1982
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "S0nh1XcFy3cftU1j", 
+    "item_number": 1, 
+    "remaining_stock": 1974, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1982
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "S2AyT5tqgA4hrccS", 
+    "item_number": 1, 
+    "remaining_stock": 1973, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1982
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1982
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1973
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "cjKfOWb86cfWmNG0", 
+    "item_number": 3, 
+    "remaining_stock": 1981, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "s59tbToTaCyUZIg0", 
+    "item_number": 3, 
+    "remaining_stock": 1980, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "npZ63iWxui0E7Dv6", 
+    "item_number": 1, 
+    "remaining_stock": 1972, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "0pVrA4HclHnzG6Q6", 
+    "item_number": 3, 
+    "remaining_stock": 1979, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "m5dEstiKRXkAfJJN", 
+    "item_number": 1, 
+    "remaining_stock": 1971, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "nWeOcAWfHKaaxMeH", 
+    "item_number": 4, 
+    "remaining_stock": 1981, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "QFnvZSdpJss5UiTN", 
+    "item_number": 3, 
+    "remaining_stock": 1978, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Rpm4l59hKngE31dE", 
+    "item_number": 1, 
+    "remaining_stock": 1970, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1982
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1982
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1970
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "O6f6cIYbDs41JpRQ", 
+    "item_number": 2, 
+    "remaining_stock": 1981, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1981
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1978
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1981
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1978
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1981
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "x99NzGQmEcahCIFJ", 
+    "item_number": 3, 
+    "remaining_stock": 1977, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1981
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1970
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1981
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "mgfTQoBknxeqRmJo", 
+    "item_number": 4, 
+    "remaining_stock": 1980, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "vzAnfw0Tmt4UnsZA", 
+    "item_number": 1, 
+    "remaining_stock": 1969, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "NPGzb9rXyQPbGjbB", 
+    "item_number": 2, 
+    "remaining_stock": 1980, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "icAiHTDVFLJEnVCc", 
+    "item_number": 4, 
+    "remaining_stock": 1979, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1980
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "dGJwS0NKBysZYrqu", 
+    "item_number": 4, 
+    "remaining_stock": 1978, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "mukMIgKKlN68RosL", 
+    "item_number": 4, 
+    "remaining_stock": 1977, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1977
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "mwx9QOIZ2ZYrCf2J", 
+    "item_number": 4, 
+    "remaining_stock": 1976, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "LW242oA4gZVHUjVg", 
+    "item_number": 1, 
+    "remaining_stock": 1968, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "CdxztDZgXY2qOvXv", 
+    "item_number": 3, 
+    "remaining_stock": 1976, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1980
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "FSaetZT0c5NY8qzR", 
+    "item_number": 1, 
+    "remaining_stock": 1967, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1976
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "LrER2wmkOGRlDVH3", 
+    "item_number": 2, 
+    "remaining_stock": 1979, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1967
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "lzXCvJ1p2eiQDWgQ", 
+    "item_number": 2, 
+    "remaining_stock": 1978, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1976
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1978
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1978
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ElBpdJHDTlK7JVWL", 
+    "item_number": 3, 
+    "remaining_stock": 1975, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "cBH7Pyk3zPn5SAgq", 
+    "item_number": 4, 
+    "remaining_stock": 1975, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1975
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "DFzh9kPdQMZpr47b", 
+    "item_number": 2, 
+    "remaining_stock": 1977, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1967
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "TyDpkAZ7OTC0fWxR", 
+    "item_number": 1, 
+    "remaining_stock": 1966, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1966
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1966
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1966
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "1YcjrduNYf65QcWt", 
+    "item_number": 4, 
+    "remaining_stock": 1974, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1975
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1977
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "LXGeNZkzCjdT6sXK", 
+    "item_number": 1, 
+    "remaining_stock": 1965, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "XLHEHRoZHUyGqrPj", 
+    "item_number": 3, 
+    "remaining_stock": 1974, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "oPRYeRcYBI5WKDEW", 
+    "item_number": 2, 
+    "remaining_stock": 1976, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "CWvzjXB4SmVlPAhb", 
+    "item_number": 4, 
+    "remaining_stock": 1973, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "JiJPo5q15qHK5gU5", 
+    "item_number": 3, 
+    "remaining_stock": 1973, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "A7RMkIJWQhAYTY1M", 
+    "item_number": 1, 
+    "remaining_stock": 1964, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1973
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "dGKrg5SJv2blmQPA", 
+    "item_number": 2, 
+    "remaining_stock": 1975, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Z1SMPsj1KEcEF5PD", 
+    "item_number": 2, 
+    "remaining_stock": 1974, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ZDPCxLE5xTCfIitt", 
+    "item_number": 1, 
+    "remaining_stock": 1963, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1973
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "DfO1HUfGWJkzYyRm", 
+    "item_number": 3, 
+    "remaining_stock": 1972, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1974
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "wrvZCJMCAA7iVDNP", 
+    "item_number": 3, 
+    "remaining_stock": 1971, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ChGNYCRT3oZKSLU8", 
+    "item_number": 1, 
+    "remaining_stock": 1962, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1974
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "CvKz6xAxp7VFwBWO", 
+    "item_number": 2, 
+    "remaining_stock": 1973, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "5LIwr5ADKGHRMWRj", 
+    "item_number": 3, 
+    "remaining_stock": 1970, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1970
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1970
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "6rzDkETHL7vyFx1e", 
+    "item_number": 1, 
+    "remaining_stock": 1961, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1970
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "rNffHD2GFWat4YJ8", 
+    "item_number": 3, 
+    "remaining_stock": 1969, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1973
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1969
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Xei4Gu9udKDHOZpH", 
+    "item_number": 3, 
+    "remaining_stock": 1968, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "T80NGhKNa2JcazGc", 
+    "item_number": 4, 
+    "remaining_stock": 1972, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Z7VLiYQOTNERZu8p", 
+    "item_number": 3, 
+    "remaining_stock": 1967, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "wrvHFwCq64mE6bF1", 
+    "item_number": 3, 
+    "remaining_stock": 1966, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "R2xMxtUSCaVOYoxa", 
+    "item_number": 3, 
+    "remaining_stock": 1965, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "uEpc85AY6mgt9mTa", 
+    "item_number": 4, 
+    "remaining_stock": 1971, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1961
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "BBSSAjSUihYkGZoI", 
+    "item_number": 4, 
+    "remaining_stock": 1970, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "BnE4d1s5z8Whkavi", 
+    "item_number": 3, 
+    "remaining_stock": 1964, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "N2cyUYwh8BfUmoQ4", 
+    "item_number": 3, 
+    "remaining_stock": 1963, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "SAXzlXUm0nEaPtLU", 
+    "item_number": 1, 
+    "remaining_stock": 1960, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1960
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "VAj0DcLLDjwQMSiS", 
+    "item_number": 2, 
+    "remaining_stock": 1972, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1960
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1972
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1960
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1972
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ME1BhChIKON0YdJY", 
+    "item_number": 2, 
+    "remaining_stock": 1971, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1971
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1963
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1970
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1960
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1970
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1963
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "qEsCcStO4wLCLEYt", 
+    "item_number": 3, 
+    "remaining_stock": 1962, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "1Wt2OJ2sWEwlvFhq", 
+    "item_number": 4, 
+    "remaining_stock": 1969, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1969
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1962
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "mniSmM2EgQO0gx0Q", 
+    "item_number": 2, 
+    "remaining_stock": 1970, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "o8SJtcoPrxOZWiLA", 
+    "item_number": 1, 
+    "remaining_stock": 1959, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "hNUkPSlIF6IQPNmc", 
+    "item_number": 1, 
+    "remaining_stock": 1958, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1970
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "N00djPxEHJTP4Cie", 
+    "item_number": 2, 
+    "remaining_stock": 1969, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1969
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "9zro4JeCEJa9SvTe", 
+    "item_number": 2, 
+    "remaining_stock": 1968, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1968
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1969
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1962
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1969
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1969
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1958
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1962
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "zF0CHbGZz98n6XkJ", 
+    "item_number": 4, 
+    "remaining_stock": 1968, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1968
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "pdrE6BUv28l2Aiip", 
+    "item_number": 4, 
+    "remaining_stock": 1967, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1967
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "8FL6A84MOc4TI5kd", 
+    "item_number": 4, 
+    "remaining_stock": 1966, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1958
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1968
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1966
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1966
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1968
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ZN4IuhGeryuvX94S", 
+    "item_number": 3, 
+    "remaining_stock": 1961, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Y6rzuJ79lnmmTzRE", 
+    "item_number": 2, 
+    "remaining_stock": 1967, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1958
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "qSYSYd6EetD2funN", 
+    "item_number": 1, 
+    "remaining_stock": 1957, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1957
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1967
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1967
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "HldEJp2I1xbpBXM5", 
+    "item_number": 1, 
+    "remaining_stock": 1956, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1966
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "W5bbslh8rl0Fn32w", 
+    "item_number": 2, 
+    "remaining_stock": 1966, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "jShJbpj39aHGAzb0", 
+    "item_number": 4, 
+    "remaining_stock": 1965, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "2QXQmkrzUuneKnUd", 
+    "item_number": 4, 
+    "remaining_stock": 1964, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "71YQPUM0QpuhtpXV", 
+    "item_number": 2, 
+    "remaining_stock": 1965, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ZREGRnOTKaFE9tyP", 
+    "item_number": 1, 
+    "remaining_stock": 1955, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1965
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Sv1qzR5nAxDbYjtm", 
+    "item_number": 2, 
+    "remaining_stock": 1964, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1955
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "JjkztfrG0dAYirqM", 
+    "item_number": 4, 
+    "remaining_stock": 1963, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "tVBmu19UQpcIyZQx", 
+    "item_number": 4, 
+    "remaining_stock": 1962, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "FKz5bmPdz3xWfO5h", 
+    "item_number": 4, 
+    "remaining_stock": 1961, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1961
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "rdy0UAyB8XVnkggi", 
+    "item_number": 3, 
+    "remaining_stock": 1960, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1960
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "WePDOVh5mt2BdiB0", 
+    "item_number": 2, 
+    "remaining_stock": 1963, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "xEJerBVTWcHjGwPi", 
+    "item_number": 1, 
+    "remaining_stock": 1954, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "xKrZBfjWtrkeQqOl", 
+    "item_number": 1, 
+    "remaining_stock": 1953, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1963
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "DHOLW61TP4tgCHYY", 
+    "item_number": 4, 
+    "remaining_stock": 1960, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1960
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1960
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1960
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1953
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1960
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "UHGUiTuFWty0hqz8", 
+    "item_number": 4, 
+    "remaining_stock": 1959, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1960
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "TukkrOiyt6KhwEWy", 
+    "item_number": 3, 
+    "remaining_stock": 1959, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1959
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1953
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "5Hx1AXXW70ZWbu9p", 
+    "item_number": 3, 
+    "remaining_stock": 1958, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1953
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "RHM8Q9WP1QyLs80b", 
+    "item_number": 3, 
+    "remaining_stock": 1957, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "YgB7mSly3BttJ3rT", 
+    "item_number": 1, 
+    "remaining_stock": 1952, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1957
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1959
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1959
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1963
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "rJgarG3OXHgcmrhX", 
+    "item_number": 3, 
+    "remaining_stock": 1956, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "gqGNejV866fsqee7", 
+    "item_number": 4, 
+    "remaining_stock": 1958, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "54UCtN2Fo0xOHydU", 
+    "item_number": 1, 
+    "remaining_stock": 1951, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "soa2Rvwl3BeBsnRr", 
+    "item_number": 2, 
+    "remaining_stock": 1962, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "xO2wY6RWU7gi9FZF", 
+    "item_number": 1, 
+    "remaining_stock": 1950, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "XqNIStkF2z8P1Z8L", 
+    "item_number": 3, 
+    "remaining_stock": 1955, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "hXmK6jJ2Hwj7QXEl", 
+    "item_number": 1, 
+    "remaining_stock": 1949, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1958
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "NlQM72Po2RphYWSH", 
+    "item_number": 4, 
+    "remaining_stock": 1957, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "dZ08uNNAvKxRiaGX", 
+    "item_number": 3, 
+    "remaining_stock": 1954, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1949
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "TsvILvsCDlTY9hPn", 
+    "item_number": 4, 
+    "remaining_stock": 1956, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1954
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "aN85BcxbBa6F0ts6", 
+    "item_number": 3, 
+    "remaining_stock": 1953, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1962
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "lWHkuq6L26GpntUU", 
+    "item_number": 4, 
+    "remaining_stock": 1955, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "08qSWkKNqF2J7uwh", 
+    "item_number": 2, 
+    "remaining_stock": 1961, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "397oVRXyk8AstBai", 
+    "item_number": 2, 
+    "remaining_stock": 1960, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1949
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "UrCF3UORMyGTrzJv", 
+    "item_number": 1, 
+    "remaining_stock": 1948, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1948
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ceVOYBLLvKcmw2mY", 
+    "item_number": 1, 
+    "remaining_stock": 1947, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1955
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "oOSbT032uwmMz7CI", 
+    "item_number": 1, 
+    "remaining_stock": 1946, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1955
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1955
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1953
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1960
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "xPN4SiZht17VMCrK", 
+    "item_number": 4, 
+    "remaining_stock": 1954, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1960
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1954
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "YveY2AhntNDyvLlO", 
+    "item_number": 4, 
+    "remaining_stock": 1953, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "g33IFEYBsx8RNyAC", 
+    "item_number": 2, 
+    "remaining_stock": 1959, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "bUXZlKZwg2p8eUH5", 
+    "item_number": 4, 
+    "remaining_stock": 1952, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "4r43SY9zdwqoPEhh", 
+    "item_number": 1, 
+    "remaining_stock": 1945, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1959
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "5Yvon3HILYLkdNsw", 
+    "item_number": 4, 
+    "remaining_stock": 1951, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "D0HSdQh6sGnhctw2", 
+    "item_number": 1, 
+    "remaining_stock": 1944, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "bh0UTcSaQYYS3GOS", 
+    "item_number": 4, 
+    "remaining_stock": 1950, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Lo0Y17o330GABXDk", 
+    "item_number": 4, 
+    "remaining_stock": 1949, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1949
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "rsN7INQTs8Z91NJx", 
+    "item_number": 4, 
+    "remaining_stock": 1948, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "u4xAKB2hZN7EtB8Q", 
+    "item_number": 4, 
+    "remaining_stock": 1947, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "OJq85tew0T7mfXVw", 
+    "item_number": 2, 
+    "remaining_stock": 1958, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1947
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1944
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1953
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1953
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "4VwRByKYPujrkPEl", 
+    "item_number": 1, 
+    "remaining_stock": 1943, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "L4xqHjxOwqA7oE5X", 
+    "item_number": 1, 
+    "remaining_stock": 1942, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Rm9KTLHe1QUhzv9C", 
+    "item_number": 4, 
+    "remaining_stock": 1946, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "w2zoJ2MQZQETLD79", 
+    "item_number": 3, 
+    "remaining_stock": 1952, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "AjVQ7lFNcwXFNHMs", 
+    "item_number": 1, 
+    "remaining_stock": 1941, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1958
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1952
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Sv6C3FiHjrDjPgRM", 
+    "item_number": 1, 
+    "remaining_stock": 1940, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1958
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1952
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1958
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "sHKlMV1aXgRKXRMa", 
+    "item_number": 3, 
+    "remaining_stock": 1951, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1958
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1946
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "56XREeWNnu9XM76z", 
+    "item_number": 2, 
+    "remaining_stock": 1957, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "DxnXYaq2vGjRSUqf", 
+    "item_number": 4, 
+    "remaining_stock": 1945, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "GyE3h8LbMat8Y6di", 
+    "item_number": 3, 
+    "remaining_stock": 1950, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1945
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1940
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "onSjZ52rGRrmeHjI", 
+    "item_number": 4, 
+    "remaining_stock": 1944, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1944
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "71lSxNUUnycAhX33", 
+    "item_number": 1, 
+    "remaining_stock": 1939, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "UpLCwJIEiUG4okrk", 
+    "item_number": 4, 
+    "remaining_stock": 1943, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1939
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1950
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ksllbtmStU3DQfGE", 
+    "item_number": 1, 
+    "remaining_stock": 1938, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1938
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "9vWHKHastFl30Ezg", 
+    "item_number": 2, 
+    "remaining_stock": 1956, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1943
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "UlZmcX9DSAuX2Qvg", 
+    "item_number": 4, 
+    "remaining_stock": 1942, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1956
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1942
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "XD5P4apEUF84z7gw", 
+    "item_number": 1, 
+    "remaining_stock": 1937, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "l4C1PIMWC7AihDPa", 
+    "item_number": 3, 
+    "remaining_stock": 1949, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "QV1HGq7TX84MGbTM", 
+    "item_number": 4, 
+    "remaining_stock": 1941, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "n5VZ3Zps9UB7KiZV", 
+    "item_number": 4, 
+    "remaining_stock": 1940, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1949
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "8AoAwh4Q9MZzDL59", 
+    "item_number": 1, 
+    "remaining_stock": 1936, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "peHkfOAIdkAQMhqH", 
+    "item_number": 4, 
+    "remaining_stock": 1939, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "VpP5nAWO8gIFAHs1", 
+    "item_number": 2, 
+    "remaining_stock": 1955, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "RCMHb75HCEya8Yhf", 
+    "item_number": 1, 
+    "remaining_stock": 1935, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "W1c5bzZ5c3cT0YlP", 
+    "item_number": 2, 
+    "remaining_stock": 1954, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "tA4zt7pixJYNdyr8", 
+    "item_number": 3, 
+    "remaining_stock": 1948, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1954
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "v792reX1f7bZsO6d", 
+    "item_number": 4, 
+    "remaining_stock": 1938, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "KPhRPLNKYWsIbIED", 
+    "item_number": 4, 
+    "remaining_stock": 1937, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1954
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1954
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "i0cMsAHIqTwBsDjt", 
+    "item_number": 4, 
+    "remaining_stock": 1936, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "OwtlJMttmScV7Iak", 
+    "item_number": 3, 
+    "remaining_stock": 1947, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "yhJOoWHlkPLfPPhA", 
+    "item_number": 1, 
+    "remaining_stock": 1934, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1954
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "qegzMtBummEF0971", 
+    "item_number": 3, 
+    "remaining_stock": 1946, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "6riszNWcMz5Hp8OF", 
+    "item_number": 4, 
+    "remaining_stock": 1935, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "atgFH9drpJlEglcw", 
+    "item_number": 1, 
+    "remaining_stock": 1933, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1935
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1946
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "k4Gu1DJ0XSEfEljU", 
+    "item_number": 4, 
+    "remaining_stock": 1934, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "AzmB7RCUCu7ev1wU", 
+    "item_number": 4, 
+    "remaining_stock": 1933, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "FqqUIXTvwP7DhGdq", 
+    "item_number": 3, 
+    "remaining_stock": 1945, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "hAXx0qcADoYn2Sx7", 
+    "item_number": 2, 
+    "remaining_stock": 1953, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "SboBUzCInB2yTiMO", 
+    "item_number": 4, 
+    "remaining_stock": 1932, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "wc5A5QM02AZMTboc", 
+    "item_number": 3, 
+    "remaining_stock": 1944, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "iMAUql6zTMGnnYVC", 
+    "item_number": 4, 
+    "remaining_stock": 1931, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "g9bUB6eM8L35snlI", 
+    "item_number": 2, 
+    "remaining_stock": 1952, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "NUh2lFxKcfkIYshG", 
+    "item_number": 1, 
+    "remaining_stock": 1932, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1931
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1931
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1931
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "oXbi6kD4gOoY1cLs", 
+    "item_number": 1, 
+    "remaining_stock": 1931, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1931
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "f6zKkT7LcRrSIPt2", 
+    "item_number": 1, 
+    "remaining_stock": 1930, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1931
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1931
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "71XLvoFGQBaQIRli", 
+    "item_number": 4, 
+    "remaining_stock": 1930, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "9VIyep9xhHjd79ZU", 
+    "item_number": 1, 
+    "remaining_stock": 1929, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1952
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1952
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1929
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "f7tar1FvK10AGUtY", 
+    "item_number": 2, 
+    "remaining_stock": 1951, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1944
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "auci3VY76eiGs0wR", 
+    "item_number": 1, 
+    "remaining_stock": 1928, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "vITq8ISKsNixfudm", 
+    "item_number": 1, 
+    "remaining_stock": 1927, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1927
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "yz9X8HEd2K0dBJ9J", 
+    "item_number": 1, 
+    "remaining_stock": 1926, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "kLuxq8r62umzchpS", 
+    "item_number": 1, 
+    "remaining_stock": 1925, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1944
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1930
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "KrN8ZyBSzzQIReqV", 
+    "item_number": 3, 
+    "remaining_stock": 1943, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1925
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1943
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1943
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "iB9nhMbYBVYWMcQa", 
+    "item_number": 2, 
+    "remaining_stock": 1950, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "4ySnta1HSESCloUT", 
+    "item_number": 3, 
+    "remaining_stock": 1942, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "g2iBialQPRUP3Dd0", 
+    "item_number": 2, 
+    "remaining_stock": 1949, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "MeGDuzQ1N1gPFArc", 
+    "item_number": 2, 
+    "remaining_stock": 1948, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "tQSq9rHSOJp2CPJg", 
+    "item_number": 2, 
+    "remaining_stock": 1947, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1930
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1930
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1925
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "qYAcAQH2xGfwiK07", 
+    "item_number": 2, 
+    "remaining_stock": 1946, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1942
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1925
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "K7TfIwJL3GEjUhk9", 
+    "item_number": 2, 
+    "remaining_stock": 1945, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "nCebSQVWFwJYplw6", 
+    "item_number": 4, 
+    "remaining_stock": 1929, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "IuT4LNQcuBeBc9Wn", 
+    "item_number": 1, 
+    "remaining_stock": 1924, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1942
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1942
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "D67BMRoePZxzb6Ur", 
+    "item_number": 3, 
+    "remaining_stock": 1941, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "9nQzCv1Fy5lGzUCV", 
+    "item_number": 3, 
+    "remaining_stock": 1940, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1945
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1924
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "gVp3n0otpRRcVysf", 
+    "item_number": 4, 
+    "remaining_stock": 1928, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "C4oI9RHTUaWeEI2w", 
+    "item_number": 2, 
+    "remaining_stock": 1944, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1940
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ptQRJBLymd651U9c", 
+    "item_number": 1, 
+    "remaining_stock": 1923, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "UIlyabx7z48ufFR5", 
+    "item_number": 2, 
+    "remaining_stock": 1943, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1940
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "lHP5wLLB58ahxBsn", 
+    "item_number": 2, 
+    "remaining_stock": 1942, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "77Pr4xwj3Rf9lnl5", 
+    "item_number": 2, 
+    "remaining_stock": 1941, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "95rZn33mKvXOF0Eh", 
+    "item_number": 4, 
+    "remaining_stock": 1927, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "MRLbqNIz5RCAILI2", 
+    "item_number": 1, 
+    "remaining_stock": 1922, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "g7TFApgGUGzfQ7Uo", 
+    "item_number": 2, 
+    "remaining_stock": 1940, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1940
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1940
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "24ymbEcwLpckFKvZ", 
+    "item_number": 4, 
+    "remaining_stock": 1926, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "m3Neqx49TfbAKlsM", 
+    "item_number": 2, 
+    "remaining_stock": 1939, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1940
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "YUxcwklKmsTEbLbA", 
+    "item_number": 2, 
+    "remaining_stock": 1938, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1922
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1940
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1938
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "lH7jE1sAvMi6YqlD", 
+    "item_number": 3, 
+    "remaining_stock": 1939, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "frUdLirA0gZwbLDM", 
+    "item_number": 4, 
+    "remaining_stock": 1925, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1925
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Vo9Zvp6WD3afMlRU", 
+    "item_number": 1, 
+    "remaining_stock": 1921, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "tN5yffISSW6U15pi", 
+    "item_number": 3, 
+    "remaining_stock": 1938, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1938
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "jzVgkVtAwAo8xXig", 
+    "item_number": 4, 
+    "remaining_stock": 1924, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1921
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ub4SPWopYD2bBfrn", 
+    "item_number": 1, 
+    "remaining_stock": 1920, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "XrbWuhypHN33AGOh", 
+    "item_number": 3, 
+    "remaining_stock": 1937, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "OTHmPbDX2GxwJw2U", 
+    "item_number": 2, 
+    "remaining_stock": 1937, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "r247QEPSu7PP6vWf", 
+    "item_number": 3, 
+    "remaining_stock": 1936, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1920
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1924
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ONmNn2hy5q5uYauI", 
+    "item_number": 2, 
+    "remaining_stock": 1936, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "sb9raCVHCAxv4vmC", 
+    "item_number": 3, 
+    "remaining_stock": 1935, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1935
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1920
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Gsundp0rs7qF37qF", 
+    "item_number": 1, 
+    "remaining_stock": 1919, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1919
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "YG0IWwPnFqPG4yRg", 
+    "item_number": 2, 
+    "remaining_stock": 1935, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1919
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1924
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1924
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "8kELu0dU3pHSzD60", 
+    "item_number": 1, 
+    "remaining_stock": 1918, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1924
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ACTOAU5Lxl4hDjSb", 
+    "item_number": 3, 
+    "remaining_stock": 1934, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1935
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1935
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "G3b5LXfJ3xiWYu2m", 
+    "item_number": 2, 
+    "remaining_stock": 1934, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "koYmAwScgAJ4CO58", 
+    "item_number": 1, 
+    "remaining_stock": 1917, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "WxftKNcViDmjL3CC", 
+    "item_number": 4, 
+    "remaining_stock": 1923, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1923
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1923
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1923
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "nbmXFm22IsAnHSwk", 
+    "item_number": 2, 
+    "remaining_stock": 1933, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "tlJtncS31GtKwNqh", 
+    "item_number": 3, 
+    "remaining_stock": 1933, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ttMGEtACaWCcta6j", 
+    "item_number": 3, 
+    "remaining_stock": 1932, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "l0f2trWkQq5Wo5rR", 
+    "item_number": 1, 
+    "remaining_stock": 1916, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "VMGyKru060qdd5eK", 
+    "item_number": 3, 
+    "remaining_stock": 1931, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "xoYA6wnlWphhCNxy", 
+    "item_number": 3, 
+    "remaining_stock": 1930, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1916
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1933
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "BZbaa1QyiE2CPvtJ", 
+    "item_number": 3, 
+    "remaining_stock": 1929, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1929
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "j4ePONXQ7ILq3KuM", 
+    "item_number": 2, 
+    "remaining_stock": 1932, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1929
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "JprNxaDVKEFxRqn2", 
+    "item_number": 2, 
+    "remaining_stock": 1931, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1929
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1916
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1916
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1929
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "0S16gLd2Hfg9YzZH", 
+    "item_number": 3, 
+    "remaining_stock": 1928, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "MZ6mwBZEmAxo0j7p", 
+    "item_number": 3, 
+    "remaining_stock": 1927, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "naJzDO3Y90LPzipQ", 
+    "item_number": 2, 
+    "remaining_stock": 1930, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1930
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "swEJFv2a6voXW7bA", 
+    "item_number": 1, 
+    "remaining_stock": 1915, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1930
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "V7UQoM6Z6BukpVlI", 
+    "item_number": 4, 
+    "remaining_stock": 1922, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1930
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "LAWiMszrQ6GHB4tz", 
+    "item_number": 2, 
+    "remaining_stock": 1929, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "J59taJr2QGnI61Wg", 
+    "item_number": 4, 
+    "remaining_stock": 1921, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "vnxgbmPSjaztgWbM", 
+    "item_number": 3, 
+    "remaining_stock": 1926, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1929
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1921
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1926
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1915
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "4VdaIgneZOz9gSgU", 
+    "item_number": 3, 
+    "remaining_stock": 1925, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "YpxJkVzt2Y4eqc8s", 
+    "item_number": 4, 
+    "remaining_stock": 1920, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "i7ukDUfG4syhmv6b", 
+    "item_number": 3, 
+    "remaining_stock": 1924, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "cOKq4k6b7tCbNoiJ", 
+    "item_number": 3, 
+    "remaining_stock": 1923, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1915
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "zX8POf5nHPNvv6xC", 
+    "item_number": 4, 
+    "remaining_stock": 1919, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "TNHPL3Ov99qhk9rz", 
+    "item_number": 1, 
+    "remaining_stock": 1914, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1919
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ysYHMGRGj0xAXnba", 
+    "item_number": 3, 
+    "remaining_stock": 1922, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1929
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1914
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1922
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1914
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "k5ZJqyUqvuzqPl3E", 
+    "item_number": 3, 
+    "remaining_stock": 1921, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "sbHIoDcG9qkmfXFv", 
+    "item_number": 1, 
+    "remaining_stock": 1913, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1929
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "9FcX1VdVlSBbtNXD", 
+    "item_number": 1, 
+    "remaining_stock": 1912, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "4MGfyaawHI3y7VbV", 
+    "item_number": 3, 
+    "remaining_stock": 1920, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1912
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1919
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1929
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "vs8RMftYFsoBjcjJ", 
+    "item_number": 2, 
+    "remaining_stock": 1928, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "NJTkeIU0FNSf9aNf", 
+    "item_number": 3, 
+    "remaining_stock": 1919, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "fT4ZFB9LyVmcls8h", 
+    "item_number": 3, 
+    "remaining_stock": 1918, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1919
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1912
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1918
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "QiTBNFNdu4biIgAO", 
+    "item_number": 2, 
+    "remaining_stock": 1927, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Gw2HDIa96mB55wLP", 
+    "item_number": 4, 
+    "remaining_stock": 1918, 
+    "total_price": 99.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1918
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1918
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Agk0EQWBQxilfw5s", 
+    "item_number": 3, 
+    "remaining_stock": 1917, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1927
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "SCluhp5FUOhFwup8", 
+    "item_number": 3, 
+    "remaining_stock": 1916, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "nOnDud762mXXF705", 
+    "item_number": 1, 
+    "remaining_stock": 1911, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1918
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "XbDWGdsQQid3EHYG", 
+    "item_number": 1, 
+    "remaining_stock": 1910, 
+    "total_price": 49.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "AaPrFlQpAuTJv1iq", 
+    "item_number": 3, 
+    "remaining_stock": 1915, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "HdZUxuORERB8fle9", 
+    "item_number": 2, 
+    "remaining_stock": 1926, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "RHJ2RDIwoPKTCspe", 
+    "item_number": 1, 
+    "remaining_stock": 1909, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "YkBvEQcnBNKW6pbe", 
+    "item_number": 1, 
+    "remaining_stock": 1908, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1918
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "nGXucM43Wlnt5i0l", 
+    "item_number": 1, 
+    "remaining_stock": 1907, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1918
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "F5wKn2C5mDzOFmm1", 
+    "item_number": 1, 
+    "remaining_stock": 1906, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "Gb6YT1P2OZBtHfii", 
+    "item_number": 3, 
+    "remaining_stock": 1914, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "BLxNUi04XqIGjcwI", 
+    "item_number": 4, 
+    "remaining_stock": 1917, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "IrAQSNptutdZnWyF", 
+    "item_number": 2, 
+    "remaining_stock": 1925, 
+    "total_price": 59.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1925
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1925
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "8wx4aDDjdXJULLwL", 
+    "item_number": 1, 
+    "remaining_stock": 1905, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1917
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "B2CxIei5DovreUAg", 
+    "item_number": 3, 
+    "remaining_stock": 1913, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1913
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1913
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1917
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ZB4dS2fpYjGZ0COZ", 
+    "item_number": 4, 
+    "remaining_stock": 1916, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "GfmmkrCP3H2IWn5w", 
+    "item_number": 1, 
+    "remaining_stock": 1904, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1904
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "AuVEdwgeaC4IoLyn", 
+    "item_number": 4, 
+    "remaining_stock": 1915, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1904
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1915
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1913
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1925
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "mMkyWmAWtII4i3o3", 
+    "item_number": 1, 
+    "remaining_stock": 1903, 
+    "total_price": 49.99
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1915
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "x2Lc1VCtJukfVs2J", 
+    "item_number": 3, 
+    "remaining_stock": 1912, 
+    "total_price": 79.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1903
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1903
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "7QnYBHKPhcdUrnEu", 
+    "item_number": 4, 
+    "remaining_stock": 1914, 
+    "total_price": 99.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "TDYLKZCHV0DMQ7nd", 
+    "item_number": 3, 
+    "remaining_stock": 1911, 
+    "total_price": 79.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "GzGuPWvqeIy31X1c", 
+    "item_number": 4, 
+    "remaining_stock": 1913, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "ltGEN7UONvtn57aU", 
+    "item_number": 2, 
+    "remaining_stock": 1924, 
+    "total_price": 59.99
+  }
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1903
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1924
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 1924
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 49.99, 
+    "name": "How to get a good grade in 677 in 20 minutes a day", 
+    "quantity": 1903
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 1911
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "2oR1j7v7dhadhltn", 
+    "item_number": 4, 
+    "remaining_stock": 1912, 
+    "total_price": 99.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "tuB5Qll1F55qKaUq", 
+    "item_number": 2, 
+    "remaining_stock": 1923, 
+    "total_price": 59.99
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Xen and the Art of Surviving Graduate School", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "253sgoRzXwuygSAB", 
+    "item_number": 3, 
+    "remaining_stock": 1910, 
+    "total_price": 79.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1912
+  }
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "FeoKSXwhKt69jEQm", 
+    "item_number": 4, 
+    "remaining_stock": 1911, 
+    "total_price": 99.99
+  }
+}

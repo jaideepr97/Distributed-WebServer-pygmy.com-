@@ -1,0 +1,29 @@
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1999
+  }
+}
+{
+  "results": [
+    {
+      "id": 3, 
+      "name": "Xen and the Art of Surviving Graduate School"
+    }, 
+    {
+      "id": 4, 
+      "name": "Cooking for the Impatient Graduate Student"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "RPCs for Dummies", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "MAKM8FMVe0x85ByG", 
+    "item_number": 2, 
+    "remaining_stock": 1999, 
+    "total_price": 59.99
+  }
+}

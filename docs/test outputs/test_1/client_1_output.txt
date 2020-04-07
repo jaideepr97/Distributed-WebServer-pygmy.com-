@@ -1,0 +1,32 @@
+{
+  "Buy Successful": {
+    "book_name": "How to get a good grade in 677 in 20 minutes a day", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "1llhfNkZ7DD0n4Ji", 
+    "item_number": 1, 
+    "remaining_stock": 1999, 
+    "total_price": 49.99
+  }
+}
+{
+  "results": [
+    {
+      "id": 1, 
+      "name": "How to get a good grade in 677 in 20 minutes a day"
+    }, 
+    {
+      "id": 2, 
+      "name": "RPCs for Dummies"
+    }
+  ]
+}
+{
+  "Buy Successful": {
+    "book_name": "Cooking for the Impatient Graduate Student", 
+    "date_created": "2020-04-06T17:54:49.007445", 
+    "id": "U8GME3RYeM1QsLiy", 
+    "item_number": 4, 
+    "remaining_stock": 1999, 
+    "total_price": 99.99
+  }
+}

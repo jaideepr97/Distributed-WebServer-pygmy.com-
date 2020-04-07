@@ -1,0 +1,21 @@
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 2000
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 2000
+  }
+}
+{
+  "result": {
+    "cost": 79.99, 
+    "name": "Xen and the Art of Surviving Graduate School", 
+    "quantity": 2000
+  }
+}

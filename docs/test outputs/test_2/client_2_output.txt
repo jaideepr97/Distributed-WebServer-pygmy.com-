@@ -1,0 +1,21 @@
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 2000
+  }
+}
+{
+  "result": {
+    "cost": 59.99, 
+    "name": "RPCs for Dummies", 
+    "quantity": 2000
+  }
+}
+{
+  "result": {
+    "cost": 99.99, 
+    "name": "Cooking for the Impatient Graduate Student", 
+    "quantity": 1999
+  }
+}
